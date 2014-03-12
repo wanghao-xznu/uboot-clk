@@ -1,0 +1,11 @@
+cmd_load.c:615:13:bin_data_init	0	static
+cmd_load.c:658:13:k_data_save	0	static
+cmd_load.c:664:13:k_data_restore	0	static
+cmd_load.c:956:12:getcxmodem	8	static
+cmd_load.c:961:14:load_serial_ymodem	1056	static
+cmd_load.c:633:13:bin_data_char	0	static
+cmd_load.c:563:12:1	0	static
+cmd_load.c:573:13:2	16	static
+cmd_load.c:144:14:load_serial	840	static
+cmd_load.c:54:12:do_load_serial	16	static
+cmd_load.c:432:12:do_load_serial_bin	40	static

@@ -1,0 +1,14 @@
+memsize.o: memsize.c /home/wh/workspace/uboot-imx/include/config.h \
+ /home/wh/workspace/uboot-imx/include/config_cmd_defaults.h \
+ /home/wh/workspace/uboot-imx/include/config_defaults.h \
+ /home/wh/workspace/uboot-imx/include/configs/mx6qsabreauto.h \
+ /home/wh/workspace/uboot-imx/include/configs/mx6qsabre_common.h \
+ /home/wh/workspace/uboot-imx/include/configs/mx6_common.h \
+ /home/wh/workspace/uboot-imx/include/asm/sizes.h \
+ /home/wh/workspace/uboot-imx/include/asm/arch/imx-regs.h \
+ /home/wh/workspace/uboot-imx/include/asm/types.h \
+ /home/wh/workspace/uboot-imx/include/config_cmd_default.h \
+ /home/wh/workspace/uboot-imx/include/asm/imx-common/gpio.h \
+ /home/wh/workspace/uboot-imx/include/asm/config.h \
+ /home/wh/workspace/uboot-imx/include/config_fallbacks.h \
+ /home/wh/workspace/uboot-imx/include/config_uncmd_spl.h

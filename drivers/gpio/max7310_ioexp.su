@@ -1,0 +1,4 @@
+max7310_ioexp.c:44:12:max7310_gpio_direction	40	static
+max7310_ioexp.c:138:5:gpio_exp_direction_input	32	static
+max7310_ioexp.c:148:5:gpio_exp_direction_output	40	static
+max7310_ioexp.c:158:5:gpio_exp_setup_port	0	static

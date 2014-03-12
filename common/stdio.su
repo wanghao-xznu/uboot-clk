@@ -1,0 +1,8 @@
+stdio.c:49:6:nulldev_putc	0	static
+stdio.c:54:6:nulldev_puts	0	static
+stdio.c:59:5:nulldev_input	0	static
+stdio.c:103:19:stdio_get_list	0	static
+stdio.c:108:19:stdio_get_by_name	24	static
+stdio.c:125:19:stdio_clone	16	static
+stdio.c:142:5:stdio_register	8	static
+stdio.c:193:5:stdio_init	80	static

@@ -1,0 +1,2 @@
+nand_ecc.c:83:5:nand_calculate_ecc	20	static
+nand_ecc.c:156:5:nand_correct_data	12	static

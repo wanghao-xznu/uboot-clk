@@ -1,0 +1,7 @@
+div64.o: div64.c /home/wh/workspace/uboot-imx/include/linux/types.h \
+ /home/wh/workspace/uboot-imx/include/linux/config.h \
+ /home/wh/workspace/uboot-imx/include/linux/posix_types.h \
+ /home/wh/workspace/uboot-imx/include/linux/stddef.h \
+ /home/wh/workspace/uboot-imx/include/asm/posix_types.h \
+ /home/wh/workspace/uboot-imx/include/asm/types.h \
+ /opt/poky/1.5.1/sysroots/x86_64-pokysdk-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.8.1/include/stdbool.h

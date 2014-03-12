@@ -1,0 +1,11 @@
+apbh_dma.c:42:5:mxs_dma_validate_chan	0	static
+apbh_dma.c:275:12:mxs_dma_ack_irq	8	static
+apbh_dma.c:222:12:mxs_dma_reset	8	static
+apbh_dma.c:98:6:mxs_dma_flush_desc	0	static
+apbh_dma.c:326:5:mxs_dma_release	8	static
+apbh_dma.c:351:22:mxs_dma_desc_alloc	8	static
+apbh_dma.c:371:6:mxs_dma_desc_free	0	static
+apbh_dma.c:418:5:mxs_dma_desc_append	24	static
+apbh_dma.c:534:5:mxs_dma_go	32	static
+apbh_dma.c:562:6:mxs_dma_init	8	static
+apbh_dma.c:586:5:mxs_dma_init_channel	16	static

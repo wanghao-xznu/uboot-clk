@@ -1,0 +1,3 @@
+cmd_clk.c:213:12:3	16	static
+cmd_clk.c:284:12:config_ddr_clk	24	static
+cmd_clk.c:339:5:do_clkops	16	static

@@ -1,0 +1,14 @@
+cmd_bootm.c:184:13:boot_start_lmb	16	static
+cmd_bootm.c:1143:12:image_info	16	static
+cmd_bootm.c:1096:5:do_bootd	8	static
+cmd_bootm.c:1648:12:do_bootm_plan9	8	static
+cmd_bootm.c:1582:12:do_bootm_rtems	8	static
+cmd_bootm.c:1471:12:do_bootm_netbsd	48	static
+cmd_bootm.c:1125:12:do_iminfo	24	static
+cmd_bootm.c:328:12:14	40	static
+cmd_bootm.c:204:12:bootm_start	40	static
+cmd_bootm.c:175:13:__arch_preboot_os	0	static
+cmd_bootm.c:593:5:do_bootm	72	static
+cmd_bootm.c:742:5:bootm_maybe_autostart	24	static
+cmd_bootm.c:1763:12:__bootz_setup	8	static
+cmd_bootm.c:1826:12:do_bootz	344	static

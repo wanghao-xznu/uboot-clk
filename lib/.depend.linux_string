@@ -1,0 +1,25 @@
+linux_string.o: linux_string.c \
+ /home/wh/workspace/uboot-imx/include/linux/ctype.h \
+ /home/wh/workspace/uboot-imx/include/linux/string.h \
+ /home/wh/workspace/uboot-imx/include/linux/types.h \
+ /home/wh/workspace/uboot-imx/include/linux/config.h \
+ /home/wh/workspace/uboot-imx/include/linux/posix_types.h \
+ /home/wh/workspace/uboot-imx/include/linux/stddef.h \
+ /home/wh/workspace/uboot-imx/include/asm/posix_types.h \
+ /home/wh/workspace/uboot-imx/include/asm/types.h \
+ /opt/poky/1.5.1/sysroots/x86_64-pokysdk-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.8.1/include/stdbool.h \
+ /home/wh/workspace/uboot-imx/include/asm/string.h \
+ /home/wh/workspace/uboot-imx/include/config.h \
+ /home/wh/workspace/uboot-imx/include/config_cmd_defaults.h \
+ /home/wh/workspace/uboot-imx/include/config_defaults.h \
+ /home/wh/workspace/uboot-imx/include/configs/mx6qsabreauto.h \
+ /home/wh/workspace/uboot-imx/include/configs/mx6qsabre_common.h \
+ /home/wh/workspace/uboot-imx/include/configs/mx6_common.h \
+ /home/wh/workspace/uboot-imx/include/asm/sizes.h \
+ /home/wh/workspace/uboot-imx/include/asm/arch/imx-regs.h \
+ /home/wh/workspace/uboot-imx/include/config_cmd_default.h \
+ /home/wh/workspace/uboot-imx/include/asm/imx-common/gpio.h \
+ /home/wh/workspace/uboot-imx/include/asm/config.h \
+ /home/wh/workspace/uboot-imx/include/config_fallbacks.h \
+ /home/wh/workspace/uboot-imx/include/config_uncmd_spl.h \
+ /home/wh/workspace/uboot-imx/include/linux/linux_string.h

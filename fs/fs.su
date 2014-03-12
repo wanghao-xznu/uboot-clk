@@ -1,0 +1,11 @@
+fs.c:32:19:fs_probe_unsupported	8	static
+fs.c:39:19:fs_ls_unsupported	0	static
+fs.c:44:19:fs_read_unsupported	0	static
+fs.c:50:20:fs_close_unsupported	0	static
+fs.c:100:28:fs_get_info	0	static
+fs.c:152:13:fs_close	8	static
+fs.c:114:5:fs_set_blk_dev	40	static
+fs.c:161:5:fs_ls	16	static
+fs.c:175:5:fs_read	24	static
+fs.c:199:5:do_load	32	static
+fs.c:264:5:do_ls	16	static
